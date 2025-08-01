@@ -1,0 +1,3 @@
+﻿  ERS.cpp
+C:\Users\irtaz\source\repos\ERS\ERS\ERS.cpp(366,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ERS.vcxproj -> C:\Users\irtaz\source\repos\ERS\x64\Debug\ERS.exe
