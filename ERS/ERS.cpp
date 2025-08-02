@@ -330,7 +330,7 @@ void firstResponderMenu()
         case '1':viewAssignedReports(username); break;
         case '2':updateReportStatus(); break;
         case '3':viewResponderActivity(username); break;
-        case '4':
+        case '0':
             cout << "\nLogging out, first Responder  " << username << "...\n";
             return;
         }
